@@ -3,10 +3,8 @@
 ## About me 
 
 - 🇧🇷 Brazilian
-- 🖥️ IT technician
-- 🌐 Focused
 - 💻 Interested in both Front-End and Back-End
-- 👨‍🎓 ciencia da computacao student at Universidade federal do mato grosso do sul 
+- 👨‍🎓 Ciência da computação student at Universidade federal do mato grosso do sul 
 
 ##
 
