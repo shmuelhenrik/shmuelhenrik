@@ -1,10 +1,10 @@
-## Eu sou o Samuel Henrique 👨🏽‍💻
+## I'm Samuel Henrique 👨🏽‍💻
 
 ## About me 
 
 - 🇧🇷 Brazilian
 - 💻 Interested in both Front-End and Back-End
-- 👨‍🎓 Ciência da computação student at Universidade federal do mato grosso do sul 
+- 👨‍🎓 Computer Science student at Federal University of Mato Grosso do Sul
 
 ##
 
@@ -14,7 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shmuelhenrik&layout=compact&theme=react"/>
 </div>
 
-## Tecnologias de interesse
+## Technologies of interest
 
 <div style="display: inline_block"><br>
   
